@@ -97,9 +97,7 @@ body{
     .details{
         flex-direction: column;
         gap: 60px;
-         align-items: center;
-        justify-content: center;
-        margin: 0 auto;
+        margin-right: 10%;
     }
     .weather h1{
         font-size: 75px;
