@@ -112,5 +112,10 @@ body{
     .humidity, .wind{
         font-size: 24px;
     }
+
+     .col p{
+        text-align: center;
+    }
+    
     
   }
