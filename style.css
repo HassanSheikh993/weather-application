@@ -99,6 +99,8 @@ body{
         gap: 60px;
         margin-right: 10%;
         margin-top: 25px;
+         justify-content: center;
+        align-items: center;
     }
     .weather h1{
         font-size: 75px;
