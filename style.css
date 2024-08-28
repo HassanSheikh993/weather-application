@@ -97,7 +97,6 @@ body{
     .details{
         flex-direction: column;
         gap: 60px;
-        margin-right: 10%;
     }
     .weather h1{
         font-size: 75px;
