@@ -97,8 +97,6 @@ body{
     .details{
         flex-direction: column;
         gap: 60px;
-
-        background-color: red;
         margin-right: 10%;
         margin-top: 20px;
     }
